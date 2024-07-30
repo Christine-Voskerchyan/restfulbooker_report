@@ -1,0 +1,5 @@
+"BROKEN","CATEGORY","FAILED","PASSED","SKIPPED","UNKNOWN"
+"0","Critical Tests","1","0","0","0"
+"1","My Broken Tests","0","0","0","0"
+"0","Passed Tests","0","8","0","0"
+"0","Skipped Tests","0","0","1","0"
